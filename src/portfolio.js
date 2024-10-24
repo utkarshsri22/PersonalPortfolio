@@ -26,7 +26,7 @@ const greeting = {
       "A Product Management enthusiast with a background as a Software Engineer, Certified Scrum Master, and Product Owner 🚀. I excel at driving product strategies, leading Agile teams, and optimizing SaaS platforms to deliver high-impact, user-focused products. With hands-on experience in Development using JavaScript and Python, I bridge the gap between technical execution and product innovation to build scalable, user-centric solutions."
     ),
     resumeLink:
-      "https://drive.google.com/drive/folders/1ueLJZuu4Xt8U4mm8ab7kvx79mfgLyqnp?usp=drive_link", // Set to empty to hide the button
+      "https://drive.google.com/file/d/14y-MIDJEZeYg-SKZ3wrlrYnQuGBIN5WA/", // Set to empty to hide the button
     displayGreeting: true // Set false to hide this section, defaults to true
 };
 

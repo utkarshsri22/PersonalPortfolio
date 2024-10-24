@@ -40,7 +40,7 @@ export default function Greeting() {
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Contact me" href="#contact" />
-                {greeting.resumeLink && (
+                {greeting.resumeLink && (     //href={require("./resume.pdf")}
                   <a
                     href={require("./resume.pdf")}
                     download="Resume.pdf"
