@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio
 
 Welcome to my personal portfolio repository! This portfolio showcases my work as both a **#ProductManager** and a **#SoftwareEngineer**, reflecting my passion for creating impactful digital solutions and optimizing user experiences through thoughtful design, analysis, and development.
@@ -47,3 +48,5 @@ Feel free to explore my projects, contribute, or connect with me:
 - **Medium**: [Utkarsh Srivastava](https://medium.com/@utkarsh.srivastava)
 - **GitHub**: [utkarshsri22](https://github.com/utkarshsri22)
 
+=======
+>>>>>>> 65c1b25 (trying commit)
